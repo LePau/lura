@@ -42,5 +42,3 @@ require (
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/luraproject/lura/v2 v2.6.3 => github.com/LePau/lura/v2 master
